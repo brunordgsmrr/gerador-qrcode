@@ -1,11 +1,4 @@
-valor1 = 5
-valor2 = 10
 
-print(valor1 + valor2)
-
-
-def soma_valor():
-    valor1 = 5
-    valor2 = 10
-
-    print(valor1 + valor2)
+class teste:
+    def __init__(self):
+        self.{n1, n2} = ['1', '2']
